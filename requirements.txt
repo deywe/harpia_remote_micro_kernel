@@ -1,0 +1,9 @@
+# --- Core de Computação Quântica ---
+cirq==1.4.1
+
+# --- Processamento de Dados e Matemática ---
+numpy>=1.24.0
+
+# --- Comunicação Assíncrona e API ---
+aiohttp>=3.9.0
+asyncio
